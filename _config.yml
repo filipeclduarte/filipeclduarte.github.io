@@ -11,7 +11,7 @@ description: This is where the description of your site will go. You should chan
 github_username: jph00
 
 # Email and twitter are optional:
-email: filipe_pb_duarte@hotmail.com
+email: {filipe_pb_duarte}@hotmail.com
 twitter_username: filipeclduarte
 
 # Set this to true to get LaTeX math equation support
