@@ -1,6 +1,7 @@
 # First post
 
-This is my first post!
+Here I'll share the material (books, courses, videos) that I've been using for learning computational intelligence.
+
 
 1. TOC
 {:toc}
