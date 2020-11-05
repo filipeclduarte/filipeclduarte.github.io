@@ -4,7 +4,7 @@
 Let's face it; Python is on fire! Python is now in the second position in the [TIOBE index](https://www.tiobe.com/tiobe-index/). Also, almost every Data Science and Machine Learning course teach Python to their students. If you ask Google the best programming language for machine learning, you will find "Python!". This fact represents the actual moment because the best libraries and frameworks for Machine Learning and Artificial Intelligence were developed in Python. Also, its community is big and very helpful.
 
 
-By the time I write this article, 2020 november 4, Python has two major frameworks to build artificial neural networks models, [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/). Python's [Sklearn](https://scikit-learn.org/stable/)  is the best library for machine learning. Make sure to check its excellent documentation. There are more than that, but those are the most widely used nowadays.
+By the time I write this article Python has two major frameworks to build artificial neural networks models, [Tensorflow](https://www.tensorflow.org/) and [Pytorch](https://pytorch.org/). Python's [Sklearn](https://scikit-learn.org/stable/)  is the best library for machine learning. Make sure to check its excellent documentation. There are more than that, but those are the most widely used nowadays.
 
 
 Therefore, the fundamental problem still resides because Python is an interpreted, also slow language.
