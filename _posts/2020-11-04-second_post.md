@@ -1,5 +1,5 @@
 
-# Which programming language I should use for Computational Intelligence?
+# Which programming language should I use for Computational Intelligence?
 
 Let's face it ... Python is on fire! Right now, not only is Python in the second position in the [TIOBE index](https://www.tiobe.com/tiobe-index/), but almost every Data Science and Machine Learning course teaches Python to their students! If you ask Google what the best programming language is for machine learning, you will see "Python!". This fact is part explained because the best libraries and frameworks for Machine Learning and Artificial Intelligence were first developed in Python. Not to mention, its community is big and very helpful.
 
