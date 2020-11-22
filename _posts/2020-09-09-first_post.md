@@ -41,9 +41,12 @@ Here I'll share the material (books, courses, papers, videos) that I've been usi
 
 ## Particle Swarm Optimization
 
+## Evolutionary Computation
+
 ## Hybrid Systems
 
 ## Ensemble Learning 
 
 * Kuncheva, Ludmila I. Combining Pattern Classifiers. Methods and Algorithms: Wiley, 2014.
 * Zhou, Zhi-Hua. Ensemble Methods: Foundations and Algorithms: CRC Press, 2012.
+
