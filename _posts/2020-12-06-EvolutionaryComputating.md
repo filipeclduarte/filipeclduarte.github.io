@@ -12,8 +12,8 @@ The following are the problems we can solve using evolutionary algorithms:
 * Modeling
 * Simulation
 
+In a black-box model of computer systems, we have an input, a model, and an output. According to Eiben and Smith (2015), "this model's purpose is to represent some aspects of the world relevant to the particular application."
 
-### What Is an Evolutionary Algorithm?
 
 
 ## Representation, Mutation, and Recombination
