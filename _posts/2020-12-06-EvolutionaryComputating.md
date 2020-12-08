@@ -1,13 +1,16 @@
-# Introduction to Evolutionary Computing
+# Introduction to Evolutionary Computation
 
 ## Introduction
 
 What is evolutionary computing? 
 
-Problems we could solve using evolutionary algorithms:
-Optimization
-Modeling
-Simulation
+It is a subfield of Computational intelligence which studies algorithms inspired by nature.  There are two main inspirations: i) Darwin's Theory of Evolution, and ii) Genetics. 
+
+The following are the problems we can solve using evolutionary algorithms:
+
+* Optimization
+* Modeling
+* Simulation
 
 
 ### What Is an Evolutionary Algorithm?
